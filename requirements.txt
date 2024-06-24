@@ -4,6 +4,11 @@ certifi==2024.6.2
 charset-normalizer==3.3.2
 click==8.1.7
 Flask==3.0.3
+<<<<<<< HEAD
+=======
+Flask-Bcrypt==1.0.1
+Flask-DebugToolbar==0.15.1
+>>>>>>> 96a00e9 (Complete functionality)
 Flask-SQLAlchemy==3.1.1
 Flask-WTF==1.2.1
 greenlet==3.0.3
@@ -11,6 +16,10 @@ idna==3.7
 itsdangerous==2.2.0
 Jinja2==3.1.4
 MarkupSafe==2.1.5
+<<<<<<< HEAD
+=======
+packaging==24.1
+>>>>>>> 96a00e9 (Complete functionality)
 psycopg2-binary==2.9.9
 requests==2.32.3
 SQLAlchemy==2.0.30
